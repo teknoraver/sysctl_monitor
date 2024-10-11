@@ -1,0 +1,4 @@
+*.o
+sysctl_monitor
+vmlinux.h
+*.skel.h
